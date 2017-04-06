@@ -1,13 +1,13 @@
 {
-  "name": "simple_listing",
+  "name": "megamenu",
   "version": "1.0.0",
-  "description": "A simple, resposive listing page with filters",
+  "description": "A responsive megamenu component",
   "authors": [
     "Alexander Eckhart <alexander.eckhart@chateaunoir.ro>"
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:lexeckhart/simple_listing.git"
+    "url": "https://github.com/lexeckhart/megamenu.git"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
